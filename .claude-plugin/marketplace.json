@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "plain-writing",
+  "version": "0.1.0",
+  "description": "A skill that makes Claude write comments, docs, and descriptions the way a person would.",
+  "owner": {
+    "name": "Teddy Tennant"
+  },
+  "plugins": [
+    {
+      "name": "plain-writing",
+      "description": "Rules for code comments, docstrings, READMEs, commits, PR bodies, and release notes that do not read as machine output.",
+      "source": "./plugins/plain-writing",
+      "category": "productivity"
+    }
+  ]
+}

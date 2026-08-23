@@ -1,0 +1,17 @@
+{
+  "name": "plain-writing",
+  "version": "0.1.0",
+  "description": "A skill that makes Claude write comments, docs, and descriptions the way a person would. Covers code comments, docstrings, tool descriptions, READMEs, commits, PR bodies, review replies, and release notes.",
+  "author": {
+    "name": "Teddy Tennant"
+  },
+  "homepage": "https://github.com/teddytennant/plain-writing",
+  "keywords": [
+    "writing",
+    "documentation",
+    "code-comments",
+    "readme",
+    "commit-messages",
+    "skill"
+  ]
+}
